@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Arushi 👋
 
-<!--
-**arushiplscode/arushiplscode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CMI student interested in:
+- Data Science
+- Machine Learning
+- Artificial Intelligence
+- Transit Analytics
+- Graph Algorithms
+- Optimization
 
-Here are some ideas to get you started:
+Currently working on:
+- Chennai Transit Analytics Project
+- PageRank Analysis
+- Travel Time Graph Modeling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech:
+Python • SQL • Pandas • NetworkX • LaTeX
